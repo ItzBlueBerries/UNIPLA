@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# UNIPLA
+![NewUniplaLogoLol](/images/UniversalPlayablesLogo.png)
 
-You can use the [editor on GitHub](https://github.com/ItzBlueBerries/UNIPLA/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the official UNIPLA(Universal Playables) Website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website contains some help, support links and downloadable file for Universal Playables!
 
-### Markdown
+Scroll down to continue.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Contents
+This is what you will be seeing in this page.
 
-```markdown
-Syntax highlighted code block
+- ***How to change your character in-game.***
+- ***Character Credits***
+- ***Downloadables***
+- ***Support Links***
+- ***Mod Creators***
 
-# Header 1
-## Header 2
-### Header 3
+## How to change your character in-game.
 
-- Bulleted
-- List
+Ah yes, this question is asked somewhat often, how to change your character in-game.
 
-1. Numbered
-2. List
+**First**
+In order to change your character, go into the storymenu/freeplay whatever you want.
+Once your in the song you want, push 7 on your keyboard which should open the ChartingState.hx or just the ChartingState lol.
 
-**Bold** and _Italic_ and `Code` text
+**Second**
+There should be sections for character selecting, go to the one you want and there should be 2 dropdown menus.
+The first dropdown menu means PLAYER 1(Which is you.) and the second dropdown menu means PLAYER 2(Which is who you are going against.).
 
-[Link](url) and ![Image](src)
-```
+**Last**
+You can change either one of these if you want, then push ENTER on your keyboard, once your in the game/song, the character should be changed and ready to play/go against!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Character Credits
+``WORK IN PROGRESS``
 
-### Jekyll Themes
+## Downloadables
+There is many ways to download Universal Playables!
+Here is a list down below.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ItzBlueBerries/UNIPLA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Gamebanana Link, [Download](https://gamebanana.com/wips/55046)
+- Gamejolt Link, [Download](https://gamejolt.com/games/unipla/616582)
+- Google Drive Link(MOST LIKELY NEVER UPDATED.), [Download](https://drive.google.com/drive/u/7/folders/1VmLYcOREkYewf3GsvWkUiuXj9vvfZ1sm?usp=sharing)
+- Mediafire Link(MOST LIKELY NEVER UPDATED.), [Download](https://www.mediafire.com/file/qlu0zi7bit6j77m/bin.rar/file)
 
-### Support or Contact
+## Support Links
+Here are the places you could get support for UNIPLA!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Discord Server(MOST RECOMMENDED!), [Link](https://discord.gg/gMHmsZ7df8)
+- Gamebanana, [Link](https://gamebanana.com/wips/55046)
+- Gamejolt, [Link](https://gamejolt.com/games/unipla/616582)
+
+## Mod Creators
+This mod was officially created by Fruitsy/BlueBerries, yep only one person made this mod, funny right? lol.
