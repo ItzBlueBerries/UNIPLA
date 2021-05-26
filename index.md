@@ -32,7 +32,23 @@ The first dropdown menu means PLAYER 1(Which is you.) and the second dropdown me
 You can change either one of these if you want, then push ENTER on your keyboard, once your in the game/song, the character should be changed and ready to play/go against!
 
 ## Character Credits
-``WORK IN PROGRESS``
+- kuroao_anomal, Mike Geno, Dokki.doodlez (Sarvente Mod Creators)
+- NEONVORE, Burning Sexuality, lostinstruments (VS Nene Week/Friday Night Shootin' Creators)
+- Sock.clip, Nate Anim8, KadeDeveloper (VS Whitty Mod Creators)
+- AjTheFunky, GenoX (VS Girlfriend Creators)
+- YingYang48, KadeDeveloper , DjCat (VS Hex Mod Creators)
+- NinKey, MikitoP (Not affiliated), Nintendo (VS Olivia Creators)
+- Squizzle Dizzle, Piesariusz27, GWebDev, GAMER_WORD, absolutelyradical (VS Beach Brother Creators)
+- PixelatedEngie, KadeDeveloper (VS Abigail Creators)
+- AGOTI, Brightfyre, Sugarratio, Kullix (VS A.G.O.T.I Creators)
+- CeramicSkinStudios, Nebula_Zorua, Echolocated (VS Brightside Creators)
+- Bbpanzu, GenoX (VS Carol Creators)
+- FritzSmith1st (VS Circus Baby Creators)
+- paperkitty (VS Kapi Creators)
+- aetherdx, AyeTSG, SodaReishii, Matt$ (VS Kiryu Creators)
+- lagoAnims, Smokey_5 (VS Minus Creators)
+- (FOR SOME REASON THEIR MOD WAS WITHELD, CAN'T GET AUTHORS RIGHT NOW, SORRY!) (VS Tom Creators)
+- Bbpanzu (VS Tord Creators)
 
 ## Downloadables
 There is many ways to download Universal Playables!
